@@ -1,0 +1,15 @@
+*.patch
+*.py?
+*.sw?
+*.coverage
+*.cov2emacs.log
+*.ropeproject
+.\#*
+*.eml
+*.egg
+.eggs
+*.egginfo
+*.egg-info
+po/build
+po/POTFILES.*
+etc-conf/*.desktop
