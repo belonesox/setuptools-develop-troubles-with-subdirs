@@ -16,7 +16,7 @@ setup(
     name="realdemopackage",
     version='1.0.0',
     package_dir={
-        'realdemopackage': 'src/realdemopackage', # Realpackages subdirectories of src
+        '': 'src', # Realpackages subdirectories of src
     },
     packages=find_packages('src'),
 )
